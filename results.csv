@@ -1,0 +1,6 @@
+﻿name,n,k,ps,os,fp,sw,bp,reading
+Ertur–Koch,91,3,15.25,0.72,0.41,0.48,0.07,The common component dominates. OSθ provides no additional evidence against the common-factor restriction.
+Columbus,49,3,3.74,2.62,0.12,0.13,0.03,The common-factor restriction is not rejected. The heteroskedasticity diagnostic calls for caution in inference.
+Georgia,159,6,1.19,1.34,0.87,0.87,<0.001,Both components are small. Neither is statistically significant; this does not establish an absence of spillovers.
+St. Louis,78,3,0.08,13.49,<0.001,0.01,<0.001,Almost all the signal lies outside the common direction. The text reports p = 0.015 after correcting for spatial error dependence; the heteroskedasticity qualification remains.
+Baltimore,211,10,40.58,27.76,<0.001,<0.001,<0.001,Both components are substantial. OSθ detects specific content but does not identify which covariate generates it. Heteroskedasticity limits calibration.
